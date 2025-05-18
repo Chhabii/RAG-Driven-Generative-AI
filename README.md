@@ -1,4 +1,4 @@
-# RAG-Driven Generative AI  
+# RAG-Driven Generative AI | BOOK | PDF
 **Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone**
 
 Minimize AI hallucinations and build accurate, custom generative AI pipelines with RAG using embedded vector databases and integrated human feedback.
